@@ -1,0 +1,11 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!example.tfvars
+.env
+*.pem
+*.key
+*.conf
+id_rsa*
+*.ovpn
